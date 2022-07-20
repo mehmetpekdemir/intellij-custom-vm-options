@@ -23,7 +23,6 @@
 -XX:MaxNewSize=512m
 -XX:MaxPermSize=1024m
 -XX:ParallelGCThreads=4
--XX:ReservedCodeCacheSize=512m
 
 -Dsun.io.useCanonCaches=false
 -Djdk.http.auth.tunneling.disabledSchemes=""
